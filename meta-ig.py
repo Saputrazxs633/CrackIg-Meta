@@ -111,7 +111,7 @@ for tu in range(1000):
             b = random.randrange(73, 99)
             c = random.randrange(4200, 4900)
             d = random.randrange(40, 150)
-            useragent = f'''Mozilla/5.0 (Linux; Android 12; SM-G996B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36'''
+            useragent = f'''Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR1.170623.032; wv) AppleWebKit/537.36 (KHTML, seperti Gecko) Versi/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36 Instagram 140.0.0.30.126 Android ( 26/8.0.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3T; qcom; fr_FR; 212676898)'''
             baru.append(useragent)
 
 for xd in range(10000):
